@@ -15,4 +15,4 @@ Humans and automated agents are both welcome. There is no CLA — every commit c
 
 GPL-2.0-or-later — see [LICENSE](LICENSE). Copyright (C) 2026 Marcus Beauregard.
 
-Releases published before 2026-11-19 (npm, PyPI, crates.io) remain available under MIT; this licence applies to the current tree and every release from here.
+This licence applies to the current tree and every release from here.
